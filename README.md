@@ -8,7 +8,7 @@ Welcome to my GitHub playground! I'm on a journey to bridge the web and the clou
 
 💭 Let's turn ideas into reality, innovate, and build a connected digital world.
 
-
+<hr>
 
 🚀 Let's collaborate, learn, and create. Join me on this exciting coding odyssey!
 
