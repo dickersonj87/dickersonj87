@@ -1,4 +1,4 @@
-### 👨‍💻 Aspiring UX Designer | 🌟 Full Stack Developer | 🚀 Project Enthusiast
+### 👨‍💻 Aspiring UX Designer | 🌟 Frontend Developer | 🚀 Project Enthusiast
 
 Welcome to my GitHub playground! I'm on a path to become a UX designer and enhance user experiences, with a background in full stack web development. I'm here to share my coding adventures with you.
 
